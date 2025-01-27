@@ -12,18 +12,19 @@ Este documento descreve a arquitetura de pastas das plataformas e os cursos cont
 
 ##### 📁 Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes/
 
-📄 [MegaApiDotnetCore - projeto final](https://github.com/caio164/MegaApiDotnetCore)
-📄 [dataset-gamesshop](https://github.com/caio164/dataset-gamesshop.git)
-📄 [lab-natty-or-not](https://github.com/caio164/lab-natty-or-not.git)
+📄 [MegaApiDotnetCore - projeto final](https://github.com/caio164/MegaApiDotnetCore)\
+📄 [dataset-gamesshop](https://github.com/caio164/dataset-gamesshop.git)\
+📄 [lab-natty-or-not](https://github.com/caio164/lab-natty-or-not.git)\
 📄 [dio-lab-open-source](https://github.com/caio164/dio-lab-open-source) - Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. Bootcamp Microsoft AI for Tech
 
 ### :briefcase: Cousera:
 
 ##### 📁 Introdução ao Git e ao GitHub - IBM/
-📄 [coding-project-template](https://github.com/caio164/coding-project-template)
-📄 [jbbmo-Introduction-to-Git-and-GitHub](https://github.com/caio164/jbbmo-Introduction-to-Git-and-GitHub)
-📄 [Centralized-repository-shipping_calculations](https://github.com/caio164/Centralized-repository-shipping_calculations)
+📄 [coding-project-template](https://github.com/caio164/coding-project-template)\
+📄 [jbbmo-Introduction-to-Git-and-GitHub](https://github.com/caio164/jbbmo-Introduction-to-Git-and-GitHub)\
+📄 [Centralized-repository-shipping_calculations](https://github.com/caio164/Centralized-repository-shipping_calculations)\
 📄 [gkpbt-css-circle](https://github.com/caio164/gkpbt-css-circle)
+
 
 #### :briefcase:Laboratórios:
 
